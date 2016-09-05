@@ -1,0 +1,2 @@
+/home/schwarmcyc/Documents/cmake-learn/code/exp2/build/src/CMakeFiles/hello.dir
+/home/schwarmcyc/Documents/cmake-learn/code/exp2/build/lib/CMakeFiles/hello_lib.dir

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/schwarmcyc/Documents/cmake-learn/code/exp3/libpng-short-example.c
+unistd.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stdarg.h
+-
+png.h
+-
+

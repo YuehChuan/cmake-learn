@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/hello.dir/hello_main.o  -o hello  -L/home/schwarmcyc/Documents/cmake-learn/code/exp2/build/lib -rdynamic ../lib/libhello_lib.a -Wl,-rpath,/home/schwarmcyc/Documents/cmake-learn/code/exp2/build/lib 

@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/pngsample.dir/libpng-short-example.o  -o pngsample -rdynamic -lpng -lz 

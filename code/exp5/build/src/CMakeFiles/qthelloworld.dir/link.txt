@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/qthelloworld.dir/hello.o  -o qthelloworld  -Lqthelloworld_BINARY_DIR/bin -rdynamic -lQtGui -lQtCore -lQtGui -lQtCore -Wl,-rpath,qthelloworld_BINARY_DIR/bin 
